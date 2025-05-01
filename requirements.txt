@@ -1,3 +1,7 @@
 # Django
 Django==4.2
 djangorestframework==3.16.0
+
+
+# Photo & Image
+pillow==11.2.1
