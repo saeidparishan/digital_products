@@ -6,3 +6,4 @@ djangorestframework_simplejwt==5.5.0
 # Photo & Image
 pillow==11.2.1
 
+requests==2.32.3
